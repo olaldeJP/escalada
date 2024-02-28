@@ -19,7 +19,7 @@ const Nav = (props) => {
       <div>
         <ul className="nav-links">
           <li>
-            <a href="#">Horarios</a>
+            <a href="#horarios">Horarios</a>
           </li>
           <li>
             <a href="#formulario">Contactanos</a>

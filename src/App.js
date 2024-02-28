@@ -6,17 +6,14 @@ import Nav from "./components/layout/Nav";
 import Footer from "./components/layout/Footer";
 import Inauguracion from "./components/layout/Inauguramos";
 import Formulario from "./components/layout/Formulario";
-import HomePage from "./pages/HomePage";
-import NosotrosPage from "./pages/NosotrosPage";
-import NovedadesPage from "./pages/NovedadesPage";
-import ContactoPage from "./pages/ContactoPage";
+import Horarios from "./components/layout/Horarios";
 function App() {
   return (
     <div className="App">
       <Header></Header>
-
       <Nav></Nav>
       <Inauguracion></Inauguracion>
+      <Horarios></Horarios>
       <Formulario></Formulario>
       <Footer></Footer>
     </div>
