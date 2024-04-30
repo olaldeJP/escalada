@@ -1,5 +1,6 @@
 body {
-  background-color: rgba(0, 0, 0, 0.829);
+  background: rgb(194, 48, 5);
+  background: linear-gradient(0deg, rgba(194, 48, 5, 0.7764355742296919) 46%, rgba(224, 190, 34, 0.6559873949579832) 78%);
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',

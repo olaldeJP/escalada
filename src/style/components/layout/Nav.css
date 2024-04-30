@@ -12,7 +12,7 @@
     padding-top: 10px;
     top: 0;
     border-radius: 10px;
-
+    z-index: 2;
 }
 
 .logo {
@@ -50,7 +50,7 @@ a,
 
 a:hover,
 .submitButton:hover {
-    background-color: rgb(199, 28, 199);
+
     transform: translateY(-2px);
 }
 
@@ -60,3 +60,19 @@ a:active,
 }
 
 @media (400px <=width <=400px) {}
+
+.aL1:hover {
+    background-color: brown;
+}
+
+.aL2:hover {
+    background-color: rgb(197, 197, 55);
+}
+
+.aL3:hover {
+    background-color: rgb(56, 56, 202);
+}
+
+.aL4:hover {
+    background-color: rgb(38, 110, 38);
+}

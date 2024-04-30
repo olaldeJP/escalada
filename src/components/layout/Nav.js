@@ -6,10 +6,14 @@ const Nav = (props) => {
       <div>
         <ul>
           <li>
-            <a href="#">Inicio</a>
+            <a className="aL1" href="#">
+              Inicio
+            </a>
           </li>
           <li>
-            <a href="#">Actividades</a>
+            <a className="aL2" href="#">
+              Actividades
+            </a>
           </li>
         </ul>
       </div>
@@ -19,10 +23,14 @@ const Nav = (props) => {
       <div>
         <ul className="nav-links">
           <li>
-            <a href="#horarios">Horarios</a>
+            <a className="aL3" href="#horarios">
+              Horarios
+            </a>
           </li>
           <li>
-            <a href="#formulario">Contactanos</a>
+            <a className="aL4" href="#formulario">
+              Contactanos
+            </a>
           </li>
         </ul>
       </div>
