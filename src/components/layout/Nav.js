@@ -11,8 +11,8 @@ const Nav = (props) => {
             </a>
           </li>
           <li>
-            <a className="aL2" href="#">
-              Actividades
+            <a className="aL2" href="#informacion">
+              Informacion
             </a>
           </li>
         </ul>
@@ -24,7 +24,7 @@ const Nav = (props) => {
         <ul className="nav-links">
           <li>
             <a className="aL3" href="#horarios">
-              Horarios
+              Actividades
             </a>
           </li>
           <li>
