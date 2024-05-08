@@ -23,7 +23,7 @@ const Nav = (props) => {
       <div>
         <ul className="nav-links">
           <li>
-            <a className="aL3" href="#horarios">
+            <a className="aL3" href="#actividades">
               Actividades
             </a>
           </li>

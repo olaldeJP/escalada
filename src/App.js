@@ -7,6 +7,7 @@ import Formulario from "./components/layout/Formulario";
 import Horarios from "./components/layout/Horarios";
 import Carrusel from "./components/layout/Carrusel";
 import LoginVar from "./components/layout/logginVar";
+import Actividades from "./components/layout/Actividades";
 import logeadoVar from "./components/layout/logeadoVar";
 import React, { useState } from "react";
 function App() {
@@ -41,7 +42,8 @@ function returnSinLoginVar() {
       <LoginVar></LoginVar>
       <Inauguracion></Inauguracion>
       <Carrusel></Carrusel>
-      <Horarios></Horarios>
+      <Actividades></Actividades>
+
       <Formulario></Formulario>
       <Footer></Footer>
     </div>
@@ -56,7 +58,7 @@ function returnConLoginVar() {
       <logeadoVar></logeadoVar>
       <Inauguracion></Inauguracion>
       <Carrusel></Carrusel>
-      <Horarios></Horarios>
+
       <Formulario></Formulario>
       <Footer></Footer>
     </div>
