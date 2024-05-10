@@ -17,7 +17,7 @@ const Actividades = (props) => {
     };
     fetchData();
   }, []);
-
+  console.log(data);
   if (data) {
     return (
       <div>

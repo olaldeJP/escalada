@@ -1,3 +1,4 @@
+import "../../style/components/layout/carrusel.css";
 import imagen from "../../img/fondo_main.jpg";
 import imagen2 from "../../img/clases_1.jpg";
 import imagen3 from "../../img/lospi.jpg";
